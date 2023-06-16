@@ -10,3 +10,7 @@
 - Chainlink VRFs have been suspended on Klatyn testnet so the smart contract written to generate NFT rewards with random attribites based on VRF could not be implemented
 - Player has to encounter monsters and complete few tasks to get to the end level
 - The game dashboard shows the tokens minted along with NFTs collected 
+
+
+### deployed contracts
+[Reward](https://baobab.scope.klaytn.com/account/0xf10f9fd0dd40c934fe5d19ce2fb32b1b22540bf3?tabId=txList)
