@@ -10,7 +10,7 @@ Deck: [Dungeon Mini-RPG Quest](https://docs.google.com/presentation/d/1dS0QfwLX1
 
 Link to Solana Demo [https://github.com/lopeselio/pit-demo-day2](https://github.com/lopeselio/pit-demo-day2)
 
-On chain game state tsorage on Solana
+On chain game state storage on Solana
 <img width="1440" alt="Screenshot 2023-06-17 at 5 32 02 AM" src="https://github.com/lopeselio/pit-demo-day/assets/43913734/9854c9d0-4d9e-4254-b37b-99a123420c4d">
 <img width="1440" alt="Screenshot 2023-06-17 at 5 31 18 AM" src="https://github.com/lopeselio/pit-demo-day/assets/43913734/367deb83-56ac-455f-b26d-378e70a148c9">
 
